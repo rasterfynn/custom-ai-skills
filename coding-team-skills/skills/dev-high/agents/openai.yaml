@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dev High"
+  short_description: "Run the high-reasoning development team workflow"
+  default_prompt: "Use $dev-high to complete the requested task."
+
+policy:
+  allow_implicit_invocation: true

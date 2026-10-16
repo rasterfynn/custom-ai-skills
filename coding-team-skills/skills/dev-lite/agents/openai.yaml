@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dev Lite"
+  short_description: "Run the lightweight development team workflow"
+  default_prompt: "Use $dev-lite to complete the requested task."
+
+policy:
+  allow_implicit_invocation: true

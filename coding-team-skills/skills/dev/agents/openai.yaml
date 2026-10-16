@@ -1,0 +1,7 @@
+interface:
+  display_name: "Dev"
+  short_description: "Run the standard development team workflow"
+  default_prompt: "Use $dev to complete the requested task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Simple Work"
+  short_description: "Run one worker only when explicitly selected"
+  default_prompt: "Use $simple-work to complete the requested task with one worker."
+
+policy:
+  allow_implicit_invocation: true
